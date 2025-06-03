@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Tomás Mendes
 
-<!--
-**tomasmendes01/tomasmendes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia Informática apaixonado por desenvolvimento de software e tecnologias emergentes.
 
-Here are some ideas to get you started:
+## 🚀 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Island-Perimeter-Exercise](https://github.com/tomasmendes01/Island-Perimeter-Exercise): Visualizador simples para calcular o perímetro de ilhas usando Python.
+- [AINET](https://github.com/tomasmendes01/AINET): Projeto baseado em Laravel para desenvolvimento web.:contentReference[oaicite:11]{index=11}
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens**: :contentReference[oaicite:13]{index=13}
+- **Frameworks**: :contentReference[oaicite:16]{index=16}
+- **Outros**: :contentReference[oaicite:19]{index=19}:contentReference[oaicite:21]{index=21}
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tomasmendes01&show_icons=true&theme=radical)
+
+## 📫 Contato
+
+- GitHub: [tomasmendes01](https://github.com/tomasmendes01)
+
+---
